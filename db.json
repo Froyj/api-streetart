@@ -1,0 +1,60 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "title": "Untitled",
+      "type": "graffiti",
+      "country": "France",
+      "city": "Paris",
+      "artistId": 1,
+      "address": "16 Rue Buot, 75013 Paris, France",
+      "coords": {
+        "lat": 48.826867,
+        "long": 2.349572
+      },
+      "imageUrl": "https://www.street-artwork.com/uploads/document/6166b02250e4d516560798.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Untitled",
+      "type": "graffiti",
+      "country": "France",
+      "city": "Paris",
+      "imageUrl": "https://www.street-artwork.com/uploads/document/6166b02250e4d516560798.jpeg",
+      "artistId": 1,
+      "address": "8 Rue Buot, 75013 Paris, France",
+      "coords": {
+        "lat": 48.827068,
+        "long": 2.349250
+      }
+    },
+    {
+      "id": 3,
+      "title": "Rat Champagne",
+      "type": "graffiti",
+      "country": "France",
+      "city": "Paris",
+      "imageUrl": "https://www.street-artwork.com/uploads/document/603bd97835f62735488863.jpeg",
+      "artistId": 2,
+      "address": "19 Rue de l'Abbé Patureau, 75018 Paris, France",
+      "coords": {
+        "lat": 48.889644,
+        "long": 2.342030
+      }
+    }
+  ],
+  "artist": [
+    {
+      "id": 1,
+      "artistName": "Seth",
+      "realName": "Julien Malland",
+      "biography": "Julien Malland, better known under the pseudonym \"Seth\", born in Paris in 1972, is a Parisian urban artist known for many murals of characters, often children, seen in three-quarter back (or three-quarter rear)."
+    },
+    {
+      "id": 2,
+      "artistName": "Bansky",
+      "realName": "Unknown",
+      "biography": "Presumably, Banksy is an artist of street art (graffiti) from Bristol, England."
+    }
+  ]
+}
